@@ -27,7 +27,7 @@ If you find this work helpful, please cite our paper (BibTeX will be provided af
 ```bibtex
 @article{qchft_tqe,
   title   = {QCHFT: Quantum Cross-Hybrid Fine-Tuning for LLMs},
-  author  = {TBD},
+  author  = {Yuanjie Li, Kyungmin Lim, Jinsuk Baek, Minho Jo*},
   journal = {IEEE Transactions on Quantum Engineering},
   year    = {TBD},
   note    = {Under review}
