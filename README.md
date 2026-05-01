@@ -18,6 +18,7 @@ This repository hosts the official implementation of **QCHFT (Quantum Cross-Hybr
 ## Updates
 
 - **[2025-12-13]** Manuscript submitted to IEEE TQE; review in progress.
+- **[2026-04-30]** Manuscript accepted.
 - **[TBD]** Code release upon publication.
 
 ## Citation
