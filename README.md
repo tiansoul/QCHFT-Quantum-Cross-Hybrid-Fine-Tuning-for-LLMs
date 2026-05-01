@@ -4,7 +4,7 @@ This repository hosts the official implementation of **QCHFT (Quantum Cross-Hybr
 
 ## Paper Status
 
-📌 **Manuscript status:** *Manuscript accepted*  
+📌 **Manuscript status:** *accepted*  
 📌 **Target journal:** *IEEE Transactions on Quantum Engineering (IEEE TQE)*  
 📌 **Code release:** The **full training/evaluation code and reproduction scripts** will be released **after the paper is officially published**.
 
