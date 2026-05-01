@@ -59,9 +59,9 @@ The datasets and compiled results are available on [IEEE DataPort](https://ieee-
 
 ## Updates
 
-- **[2025-12-13]** Manuscript submitted to IEEE TQE; review in progress.
-- **[2026-04-30]** Manuscript accepted.
-- **[TBD]** Code release upon publication.
+- **[2025-12-13]** Manuscript submitted to IEEE TQE.
+- **[2026-04-30]** Manuscript Accepted.
+- **[TBD]** Code release upon official publication.
 
 ## Citation
 
